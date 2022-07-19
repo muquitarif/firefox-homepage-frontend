@@ -31,3 +31,8 @@ body {
 footer {
     margin-top: 100px;
 }
+
+.form-control
+{
+    padding:10px;
+}
