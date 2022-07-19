@@ -1,0 +1,33 @@
+body {
+    margin: 230px 30px 230px 30px;
+}
+
+.container-fluid {
+    max-width: 800px;
+    padding: 50px 0px 50px 0px;
+    overflow: hidden;
+}
+
+.row {
+    padding-left: 20px;
+}
+
+.img-thumbnail {
+    border: none;
+}
+
+a:link {
+    text-decoration: none;
+    padding: 10px;
+}
+
+body {
+    background-image: url(./images/blob-scene-haikei.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+footer {
+    margin-top: 100px;
+}
